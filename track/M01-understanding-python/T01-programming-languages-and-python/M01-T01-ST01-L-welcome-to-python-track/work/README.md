@@ -25,3 +25,12 @@ Programming means:
 Python is:
 
 In this track, I will learn:
+
+how to push my current work to git step by step
+
+
+1. git init
+2. git remote -v
+3. git add .
+4. git commit -m "write anything about your task/work done"
+5. git push
