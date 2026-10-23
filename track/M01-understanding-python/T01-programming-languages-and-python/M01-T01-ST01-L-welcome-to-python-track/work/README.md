@@ -20,9 +20,9 @@ Write the role you want to achieve.
 
 Complete these sentences:
 
-Programming means:
+Programming means: It is a process of writing code to instruct a computer to perform a task.
 
-Python is:
+Python is: High level, interpreted, general purpose, dynamically typed, and object-oriented programming language.
 
 In this track, I will learn:
 
