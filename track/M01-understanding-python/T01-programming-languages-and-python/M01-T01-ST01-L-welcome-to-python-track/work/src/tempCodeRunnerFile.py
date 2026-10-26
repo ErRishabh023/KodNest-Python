@@ -1,1 +1,2 @@
-x = 10
+in range(1, 21):
+#     print(i)
